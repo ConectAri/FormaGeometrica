@@ -1,6 +1,7 @@
 
 public class Circulo implements FormaGeometrica {
 	
+	//Testando este comentário
 	
 	private  double raio; 
 	// final porque o número não pode ser alterado, algo taxado
